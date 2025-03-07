@@ -1,0 +1,16 @@
+
+  _  __          _             _       ____   _      _
+ | |/ /   ___   | |_   _   _  | | __  / ___| | |    | |
+ | ' /   / _ \  | __| | | | | | |/ / | |     | |    | |
+ | . \  | (_) | | |_  | |_| | |   <  | |___  | |__  | |
+ |_|\_\  \___/   \__|  \__,_| |_|\_\  \____| |____| |_|
+
+    / CLI for Kotuk's /
+
+Commands:
+  ktk                    - Get Greet Message
+  ktk help               - Get Help Commands
+  ktk version            - Get Kotuk Version
+  ktk time               - Get Current Time
+  ktk config             - Get Kotuk Config Commands
+
